@@ -3,7 +3,7 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/userupload/36622163/file/original-72e737acdeb8add3df097fc8c666bf76.gif">
 
-- 🌱 I’m currently go with **Machine Learning,Deep learing,Data analysis and web-dev**
+- 🌱 I’m currently go with **AI/ML and web-dev**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aditya-chouksey-417661282](https://www.linkedin.com/in/aditya-chouksey-417661282)
 
